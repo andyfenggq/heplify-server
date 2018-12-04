@@ -6,13 +6,19 @@ require (
 	github.com/buger/jsonparser v0.0.0-20181023193515-52c6e1462ebd
 	github.com/cespare/xxhash v1.1.0
 	github.com/coocood/freecache v1.0.1
+	github.com/emicklei/go-restful v1.1.4-0.20161113071921-a2c0c10d4416
 	github.com/fatih/camelcase v1.0.0 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/go-sql-driver/mysql v1.4.0
 	github.com/gobuffalo/packr v1.19.0
 	github.com/gogo/protobuf v1.1.1
+	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
+	github.com/golang/groupcache v0.0.0-20181024230925-c65c006176ff // indirect
 	github.com/golang/protobuf v1.2.0 // indirect
 	github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db // indirect
+	github.com/jinzhu/gorm v1.9.2
+	github.com/jinzhu/inflection v0.0.0-20180308033659-04140366298a // indirect
+	github.com/jinzhu/now v0.0.0-20181116074157-8ec929ed50c3
 	github.com/koding/multiconfig v0.0.0-20171124222453-69c27309b2d7
 	github.com/lib/pq v1.0.0
 	github.com/mailru/easyjson v0.0.0-20180823135443-60711f1a8329 // indirect
@@ -29,6 +35,8 @@ require (
 	github.com/prometheus/common v0.0.0-20181020173914-7e9e6cabbd39 // indirect
 	github.com/prometheus/procfs v0.0.0-20181005140218-185b4288413d // indirect
 	github.com/robfig/cron v0.0.0-20180505203441-b41be1df6967
+	github.com/seanchann/goutil v0.0.0-20181128082858-be959d940cf7
+	github.com/spf13/pflag v1.0.3
 	github.com/stretchr/testify v1.2.2
 	gopkg.in/yaml.v2 v2.2.1 // indirect
 )
